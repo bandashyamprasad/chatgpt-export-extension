@@ -46,7 +46,3 @@ Contributions are welcome! Feel free to:
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
-
-## Screenshot
-
-![Export Button Example](screenshot.png)  
